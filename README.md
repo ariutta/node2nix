@@ -223,7 +223,7 @@ the `-6` parameter. For example, running the following command generates
 expressions that can be used with Node.js 6.x:
 
 ```bash
-$ node2nix -6 -i node-package.json
+$ node2nix -6 -i node-packages.json
 ```
 
 By running the following command, Nix deploys NiJS version 0.0.18 using Node.js
